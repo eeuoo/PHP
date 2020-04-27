@@ -1,3 +1,4 @@
+<?php
 <<<HTMLBLOCK
 <html>
 <head><title>메뉴</title></head>
@@ -11,3 +12,4 @@
 </body>
 </html>
 HTMLBLOCK
+?>

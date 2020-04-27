@@ -1,4 +1,5 @@
-print <<< HTMLBLOCK
+<?php
+print <<<HTMLBLOCK
 <html>
 <head><title>메뉴</title></head>
 <body bgcolor="#fffed9">
@@ -11,3 +12,5 @@ print <<< HTMLBLOCK
 </body>
 </html>
 HTMLBLOCK;
+?>
+
